@@ -1,5 +1,5 @@
 ---
-title: "Thomas Bayes"
+title: "Ana Lucia Peralta"
 image: images/profile.png
 about:
   template: jolla
